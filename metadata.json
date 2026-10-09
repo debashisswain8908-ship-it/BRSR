@@ -1,0 +1,6 @@
+{
+  "name": "SEBI BRSR Online Portal",
+  "description": "Comprehensive Business Responsibility and Sustainability Reporting portal compliant with SEBI guidelines and NGRBC principles with BRSR Core KPIs, automated intensities, and audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
